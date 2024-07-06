@@ -4,13 +4,12 @@
  <meta charset="UTF-8">
  <link rel="icon" href="./圖標.jpg" type="image/jpeg">
  <link rel="stylesheet" href="style.css">
- <style>
+ <!-- <style>
   /* 在这里添加你的内置 CSS 样式 */
   body {
    zoom: 250%;
    /* 2.5 倍放大 */
   }
-
   button {
    background-color: #D6D6D6;
    color: black;
@@ -19,11 +18,10 @@
    cursor: pointer;
    border-radius: 100px;
   }
-
   button:hover {
    background-color: #A2A2A2;
   }
- </style>
+ </style> -->
 </head>
 <title>更多關於我的資訊</title>
 </head>
