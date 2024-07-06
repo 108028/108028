@@ -32,14 +32,15 @@
  <p>我的<a href="http://github.com/108028/-htnl-css.git">Github</a>有更多作品</p>
  <p>點擊上方[Github]前往</p>
 <button onclick="goBack()">回上一頁</button>
-<script>
+<!-- <script>
  function goBack() {
   window.history.back();
  }
-</script>
+</script> -->
 </body>
 </html>
-<!---!---
+<!-- 註解的都是無法使用的程式 -->
+<!--
 108028/108028 是一個 ✨ 特殊 ✨ 儲存庫，因為它的「README.md」（此檔案）出現在您的 GitHub 個人資料上。
 您可以點擊預覽連結以查看您的變更。
 -->
